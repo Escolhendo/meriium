@@ -14,7 +14,7 @@
 
 ## Social Medias
 <div style="display: inline_block">
-  <img align="center" alt="Instagram" height="200" width="200" src="https://github.com/miniaws/miniaws/assets/88752670/50563a60-7361-4489-aa14-d624b6c7e082">
+  <img align="center" alt="Instagram" height="40" width="40" src="https://github.com/miniaws/miniaws/assets/88752670/50563a60-7361-4489-aa14-d624b6c7e082">
 
 </div>
 <br>
