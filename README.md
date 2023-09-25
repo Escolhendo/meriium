@@ -15,7 +15,7 @@
 ## Social Medias
 <div style="display: inline_block">
   <a href="https://www.instagram.com/souaquelematheus" target="_blank">
-    <img align="center" alt="Instagram" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Instagram" height="40" width="40" src="./icons/Instagram.svg">
   </a>
 </div>
 <br>
