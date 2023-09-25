@@ -2,7 +2,7 @@
 
 - 14y.
 - 📌 I'm currently learning Java, CSS and HTML.
-- 📅 Actually working in Arcanian project.
+- 📅 Actually working on the Arcanian project.
 
 ## Studying
 
@@ -15,7 +15,7 @@
 ## Social Medias
 <div style="display: inline_block">
   <a href="https://www.instagram.com/souaquelematheus" target="_blank">
-    <img align="center" alt="Instagram" height="40" width="40" src="https://github.com/miniaws/miniaws/assets/88752670/50563a60-7361-4489-aa14-d624b6c7e082">
+    <img align="center" alt="Instagram" height="40" width="40" src="https://github.com/miniaws/miniaws/blob/master/assets/88752670/50563a60-7361-4489-aa14-d624b6c7e082.png">
   </a>
 </div>
 <br>
