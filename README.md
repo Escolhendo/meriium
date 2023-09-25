@@ -14,7 +14,7 @@
 
 ## Working in
 <div style="display: inline_block">
-  <img align="center" alt="Arcanian" height="400" width="100" src="https://github.com/miniaws/miniaws/assets/88752670/741a5254-25e8-4fd3-ba41-cf5d3174af69">
+  <img align="center" alt="Arcanian" height="200" width="200" src="https://github.com/miniaws/miniaws/assets/88752670/741a5254-25e8-4fd3-ba41-cf5d3174af69">
 
 </div>
 <br>
