@@ -4,6 +4,8 @@
 - 📌 I'm currently learning Java, CSS and HTML.
 - 📅 Actually working on the Arcanian project.
 
+
+#### O
 ## Studying
 
 <div style="display: inline_block">
