@@ -16,8 +16,10 @@
 ## 🖥️ Social Medias...
 <div style="display: inline_block">
   <a href="https://www.instagram.com/souaquelematheus" target="_blank">
-    <img align="center" alt="Instagram" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
-    <img align="center" alt="Steam" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg">
+    <img align="center" alt="Instagram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
+  </a>
+    <a href="https://www.steam.com" target="_blank">
+    <img align="center" alt="Steam" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg">
   </a>
 </div>
 <br>
