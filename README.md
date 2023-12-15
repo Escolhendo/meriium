@@ -1,8 +1,8 @@
-# Welcome to my github! 👋
+# Hey hey, welcome to my World!
 
-- 14y.
+- Matt, 15y. 🇧🇷
 - 📌 I'm currently learning Java, CSS and HTML.
-- 📅 Actually working on the Arcanian project.
+- 🕰 Developing "Arcanian, last shine"
 
 
 ## 📜 Learning...
