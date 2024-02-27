@@ -1,8 +1,9 @@
 # Hey hey, welcome to my World!
 
 - Matt, 15y. 🇧🇷
-- 📌 I'm currently learning Java, CSS and HTML.
-- 🕰 Developing "Arcanian, last shine"
+- ☕️ Beginner in Java, C# and C++.
+- 🌐 I'm currently studying Cyber Security.
+- 🕰 Developing and writing the Arcanian Universe.
 
 
 ## 📜 Learning...
@@ -15,7 +16,7 @@
 
 ## 🖥️ Social Medias...
 <div style="display: inline_block">
-  <a href="https://www.instagram.com/souaquelematheus" target="_blank">
+  <a href="https://www.instagram.com/ds._.mat" target="_blank">
     <img align="center" alt="Instagram" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
   </a>
     <a href="https://steamcommunity.com/id/escolhendo" target="_blank">
