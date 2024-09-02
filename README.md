@@ -1,10 +1,9 @@
 # Hey hey, welcome to my World!
 
 - Matt, 15y. 🇧🇷
-- ☕️ Beginner in Java, C# and C++.
-- 🌐 I'm currently studying Cyber Security.
-- 🕰 Developing and writing the Arcanian Universe.
-
+- 🖥 - Unreal Engine Developer.
+- ☕️ - C++ Beginner.
+- 🕰 Writing Arcanian into the Void.
 
 ## 📜 Learning...
 
