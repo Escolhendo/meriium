@@ -2,10 +2,10 @@
 
 - Matt, 15y. 🇧🇷
 - 🖥 - Unreal Engine Developer.
-- ☕️ - C++ Beginner.
+- ☕️ - Coffee lover.
 - 🕰 Writing Arcanian into the Void.
 
-## 📜 Learning...
+## 🌐 Actually Learning...
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
