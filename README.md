@@ -21,7 +21,7 @@
   </a>
     <a href="https://steamcommunity.com/id/escolhendo" target="_blank">
     <img align="center" alt="Steam" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg">
-   <a href="https://reddit" target="_blank">
+   <a href="https://www.reddit.com/user/escolhendo/" target="_blank">
     <img align="center" alt="Reddit" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/220px-Reddit_Logo_Icon.svg.png">
   </a>
 </div>
