@@ -39,11 +39,10 @@ int main() {
 Matheus Dantas (Mat) | Backend | Beginner in Java - Java Script - PHP - Python - C++ - C# - Node.js
 
 
-```...Program finished with exit code 0
-Press ENTER to exit console.```
+```...Program finished with exit code 0```
+```Press ENTER to exit console.```
  
 
-## 🖥️ Social Medias...
 ## 🖥️ Social Medias...
 <div style="display: inline_block">
   <a href="https://www.instagram.com/ds._.mat" target="_blank">
