@@ -36,16 +36,27 @@ int main() {
     return 0;
 }
 ```
+Matheus Dantas (Mat) | Backend | Beginner in Java - Java Script - PHP - Python - C++ - C# - Node.js
 
+
+```...Program finished with exit code 0
+Press ENTER to exit console.```
+ 
+
+## 🖥️ Social Medias...
 ## 🖥️ Social Medias...
 <div style="display: inline_block">
   <a href="https://www.instagram.com/ds._.mat" target="_blank">
     <img align="center" alt="Instagram" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
   </a>
-    <a href="https://steamcommunity.com/id/escolhendo" target="_blank">
+  <a href="https://steamcommunity.com/id/escolhendo" target="_blank">
     <img align="center" alt="Steam" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg">
-   <a href="https://www.reddit.com/user/escolhendo/" target="_blank">
+  </a>
+  <a href="https://www.reddit.com/user/escolhendo/" target="_blank">
     <img align="center" alt="Reddit" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/220px-Reddit_Logo_Icon.svg.png">
+  </a>
+  <a href="https://github.com/meriiUM" target="_blank">
+    <img align="center" alt="GitHub" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
   </a>
 </div>
 <br>
