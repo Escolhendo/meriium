@@ -36,11 +36,12 @@ int main() {
     return 0;
 }
 ```
-Matheus Dantas (Mat) | Backend | Beginner in Java - Java Script - PHP - Python - C++ - C# - Node.js
 
+```Matheus Dantas (Mat) | Backend | Beginner in Java - Java Script - PHP - Python - C++ - C# - Node.js
 
-```...Program finished with exit code 0```
-```Press ENTER to exit console.```
+...Program finished with exit code 0
+Press ENTER to exit console.
+```
  
 
 ## 🖥️ Social Medias...
