@@ -5,14 +5,37 @@
 - ☕️ - Coffee lover.
 - 🕰 Writing Arcanian into the Void.
 
-## 🌐 Actually Learning...
+## 🌐 Coding
+```C++
+#include <iostream>
+#include <array>
+#include <string>
 
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="C++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
+void dev() {
+    const std::string name = "Matheus Dantas (Mat)";
+    const std::string stack = "Backend";
+    const std::string level = "Beginner in";
+    
+    const std::array<const char*, 7> languages = {
+        "Java", "Java Script", "PHP", "Python", "C++", "C#", "Node.js"
+    };
 
-</div>
+    std::cout << name << " | " << stack << " | " << level << " ";
+
+    for (size_t i = 0; i < languages.size(); ++i) {
+        std::cout << languages[i];
+        if (i != languages.size() - 1) {
+            std::cout << " - "; 
+        }
+    }
+    std::cout << '\n';
+}
+
+int main() {
+    dev();
+    return 0;
+}
+```
 
 ## 🖥️ Social Medias...
 <div style="display: inline_block">
