@@ -37,7 +37,8 @@ int main() {
 }
 ```
 
-```Matheus Dantas (Mat) | Backend | Beginner in Java - Java Script - PHP - Python - C++ - C# - Node.js
+```Console
+Matheus Dantas (Mat) | Backend | Beginner in Java - Java Script - PHP - Python - C++ - C# - Node.js
 
 ...Program finished with exit code 0
 Press ENTER to exit console.
