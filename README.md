@@ -1,9 +1,9 @@
 # My Profile
 
-- Matt, 15y. 🇧🇷
+- Matt, 16y. 🇧🇷
 - 🖥 - Unreal Engine Developer.
 - ☕️ - Coffee lover.
-- 🕰 Writing Arcanian into the Void.
+- 🕰 Writing Arcanian Into the Void.
 
 ## 🌐 Coding
 ```C++
